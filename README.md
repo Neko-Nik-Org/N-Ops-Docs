@@ -350,13 +350,12 @@ module.exports = {
 - **Discord**: [Join our community](https://discord.com/invite/PYqHVUGdwv)
 - **GitHub Issues**: [Report bugs or request features](https://github.com/Neko-Nik-Org/N-Ops-Docs/issues)
 - **GitHub Discussions**: [Ask questions and share ideas](https://github.com/Neko-Nik-Org/N-Ops-Docs/discussions)
-- **Twitter**: [@NekoNikOrg](https://twitter.com/NekoNikOrg)
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Copyright © 2024 Neko Nik. Built with Docusaurus.
+Copyright © 2024 Neko Nik. Built with [Docusaurus](https://docusaurus.io/).
 
 ## 🔄 Related Projects
 
